@@ -1,0 +1,10 @@
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\bin\Debug\hw6_1.exe.config
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\bin\Debug\hw6_1.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\bin\Debug\hw6_1.pdb
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\obj\Debug\hw6_1.csprojAssemblyReference.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\obj\Debug\hw6_1.Form1.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\obj\Debug\hw6_1.Properties.Resources.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\obj\Debug\hw6_1.csproj.GenerateResource.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\obj\Debug\hw6_1.csproj.CoreCompileInputs.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\obj\Debug\hw6_1.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw6_1\hw6_1\obj\Debug\hw6_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\bin\Debug\hw3_2.exe.config
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\bin\Debug\hw3_2.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\bin\Debug\hw3_2.pdb
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\obj\Debug\hw3_2.csprojAssemblyReference.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\obj\Debug\hw3_2.Form1.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\obj\Debug\hw3_2.Properties.Resources.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\obj\Debug\hw3_2.csproj.GenerateResource.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\obj\Debug\hw3_2.csproj.CoreCompileInputs.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\obj\Debug\hw3_2.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw3_2\hw3_2\obj\Debug\hw3_2.pdb

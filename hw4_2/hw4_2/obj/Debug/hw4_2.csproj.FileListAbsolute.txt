@@ -1,0 +1,19 @@
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\bin\Debug\hw4_2.exe.config
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\bin\Debug\hw4_2.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\bin\Debug\hw4_2.pdb
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\obj\Debug\hw4_2.Form1.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\obj\Debug\hw4_2.Properties.Resources.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\obj\Debug\hw4_2.csproj.GenerateResource.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\obj\Debug\hw4_2.csproj.CoreCompileInputs.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\obj\Debug\hw4_2.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_1 - 複製\hw4_2\obj\Debug\hw4_2.pdb
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\bin\Debug\hw4_2.exe.config
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\bin\Debug\hw4_2.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\bin\Debug\hw4_2.pdb
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\obj\Debug\hw4_2.csprojAssemblyReference.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\obj\Debug\hw4_2.Form1.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\obj\Debug\hw4_2.Properties.Resources.resources
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\obj\Debug\hw4_2.csproj.GenerateResource.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\obj\Debug\hw4_2.csproj.CoreCompileInputs.cache
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\obj\Debug\hw4_2.exe
+C:\Users\webbe\OneDrive\桌面\111上\視窗程式設計\hw4_2\hw4_2\obj\Debug\hw4_2.pdb
